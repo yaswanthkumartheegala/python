@@ -1,0 +1,5 @@
+n=int(input("enter the number1))
+a=int(input("enter the number2)):
+if a>n:
+print("a",is smaller)
+print()`
